@@ -13,22 +13,22 @@ App Storeにリリースしていないアプリを、TestFlight経由でイン�
 	
 3. 必要な情報を入力し、[Sign Up]をタップします。
 
-	![image](images/02.png)	
-	
-	- First Name  
+		- First Name  
 		名前をローマ字で入力してください。
-	- Last Name  
+		- Last Name  
 		姓をローマ字で入力してください。
-	- Email Address  
+		- Email Address  
 		メールアドレスを入力してください。
-	- Email Confirm  
+		- Email Confirm  
 		メールアドレスをもう一度入力してください。
-	- Password  
+		- Password  
 		パスワード
-	- Password Confirm  
+		- Password Confirm  
 		パスワードをもう一度入力してください。
-	- Developer  
-		OFFのままで結構です。	
+		- Developer  
+		OFFのままで結構です。
+
+	![image](images/02.png)	
 
 4. 下記画面が表示されれば登録完了です。
 	
